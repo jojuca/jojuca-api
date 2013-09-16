@@ -1,4 +1,4 @@
 jojuca-api
 ==========
 
-RESTFul Api para Jojuca
+NodeJS RESTFul Api para Jojuca
